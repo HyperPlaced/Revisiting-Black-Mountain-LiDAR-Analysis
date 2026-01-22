@@ -19,11 +19,12 @@ to support terrain interpretation and emergency response planning.
 
 ## Project Preview
 
-### LiDAR Terrain & Context Mapping
-![LiDAR Terrain Preview](preview_LiDAR1.PNG)
+### Land Cover Classification & Area Statistics
+![NLCD Land Cover Analysis](Preview_LiDAR3.PNG)
 
-### Elevation & Surface Visualization
-![LiDAR Surface Preview](preview_LiDAR2.PNG)
+### LiDAR Point Cloud RGB Visualization
+![LiDAR RGB Point Cloud](Preview_LiDAR4.PNG)
+
 
 ## Full Project Report
 📄 **[Download the full PDF report](Revisiting_Black_Mountain_Advanced_LiDAR_Analysis_Ittig.pdf)**
